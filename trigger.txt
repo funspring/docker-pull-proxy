@@ -1,1 +1,1 @@
-alpine:20240606 registry.cn-hangzhou.aliyuncs.com/yaming116/alpine:20240606
+homeassistant/home-assistant:latest  registry.cn-hangzhou.aliyuncs.com/cpdd/home-assistant:latest
